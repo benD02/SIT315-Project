@@ -1,0 +1,11 @@
+﻿  ParallelMPI.cpp
+C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\ParallelMPI\ParallelMPI.cpp(78,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\ParallelMPI\ParallelMPI.cpp(95,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\ParallelMPI\ParallelMPI.cpp(96,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\ParallelMPI\ParallelMPI.cpp(115,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\ParallelMPI\ParallelMPI.cpp(116,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\ParallelMPI\ParallelMPI.cpp(258,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\ParallelMPI\ParallelMPI.cpp(263,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\ParallelMPI\ParallelMPI.cpp(275,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\ParallelMPI\ParallelMPI.cpp(280,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ParallelMPI.vcxproj -> C:\Users\ben\Documents\University\Year 3\Trimester 2\SIT315\M4.1D\ParallelMPI\x64\Debug\ParallelMPI.exe
